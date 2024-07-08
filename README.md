@@ -1,4 +1,4 @@
-# Data Science jobs and salaries analysis
+# Data Science jobs and salaries analysis with Python
 
 This project shows insights from the Data Science jobs and salaries from 2020 to 2023 with visualization done with Python's Plotly Express Library.
 
